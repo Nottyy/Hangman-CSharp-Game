@@ -1,7 +1,13 @@
 Hangman C# Game
 ====================
 
-C# game, following the best practices in the OOP.
+Design patterns used: 
+-	Creational - singletone, prototype
+-	Structural - proxy, facade,
+-	Behavioral - strategy command
+
+
+C# game, following the best practices in the OOP such as SOLID, DRY and KISS principles.
 
 Hangman is a words guessing game. The computer picks up a random word and the player tries to guess it by suggesting letters.
 
