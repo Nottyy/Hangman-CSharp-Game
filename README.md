@@ -1,4 +1,4 @@
-Hangman-C-small-game
+Hangman C# Game
 ====================
 
 Small C# game following the best practices in the OOP.
