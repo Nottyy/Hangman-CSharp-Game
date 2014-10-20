@@ -1,0 +1,5 @@
+Miki,0
+top,0
+os,2
+pesho,4
+gergn,5
